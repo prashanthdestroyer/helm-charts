@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vda:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-28T14:34:02.0216386+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e9731d25ce3e6bfa2b332918fa3850c771e5b37cfa0ad4045be625dbc016f207
+    name: vda
+    type: application
+    urls:
+    - vda-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-28T14:34:02.0183512+05:30"
